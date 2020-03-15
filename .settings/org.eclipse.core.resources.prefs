@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+encoding//src/cn/sxt/dao/impl/UserDaoMySqlImpl.java=UTF-8
+encoding//src/cn/sxt/dao/impl/UserDaoOracleImpl.java=UTF-8
+encoding//src/cn/sxt/service/impl/UserServiceImpl.java=UTF-8
